@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/image/4ops/flake8.svg)](https://microbadger.com/images/4ops/flake8 "Get your own image badge on microbadger.com")
+
 # Components
 
 ## flake8
